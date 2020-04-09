@@ -19,7 +19,7 @@ exports[`Picker should render a clean snapshot 1`] = `
       }
     }
   >
-    <RNCPicker
+    <RCTPicker
       items={
         Array [
           Object {
