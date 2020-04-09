@@ -1,0 +1,22 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.merge = exports.findIndex = exports.find = void 0;
+function find(array, predicate) {
+    return array.find(predicate);
+}
+exports.find = find;
+function findIndex(array, predicate) {
+    return array.findIndex(predicate);
+}
+exports.findIndex = findIndex;
+// merge an array of objects into a single object
+function merge(array, options) {
+    return array.reduce((result, item) => {
+        Object.keys(item).forEach(key => {
+            result[key] = item[key];
+        });
+        return result;
+    }, options);
+}
+exports.merge = merge;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXJyYXkudXRpbHMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvdXRpbHMvYXJyYXkudXRpbHMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEsU0FBZ0IsSUFBSSxDQUFDLEtBQVMsRUFBRyxTQUFpQztJQUM5RCxPQUFPLEtBQUssQ0FBQyxJQUFJLENBQUMsU0FBUyxDQUFDLENBQUM7QUFDakMsQ0FBQztBQUZELG9CQUVDO0FBRUQsU0FBZ0IsU0FBUyxDQUFDLEtBQVUsRUFBRSxTQUE2QjtJQUMvRCxPQUFPLEtBQUssQ0FBQyxTQUFTLENBQUMsU0FBUyxDQUFDLENBQUM7QUFDdEMsQ0FBQztBQUZELDhCQUVDO0FBRUQsaURBQWlEO0FBQ2pELFNBQWdCLEtBQUssQ0FBQyxLQUFZLEVBQUUsT0FBYTtJQUM3QyxPQUFPLEtBQUssQ0FBQyxNQUFNLENBQUMsQ0FBQyxNQUFNLEVBQUUsSUFBSSxFQUFFLEVBQUU7UUFDakMsTUFBTSxDQUFDLElBQUksQ0FBQyxJQUFJLENBQUMsQ0FBQyxPQUFPLENBQUMsR0FBRyxDQUFDLEVBQUU7WUFDNUIsTUFBTSxDQUFDLEdBQUcsQ0FBQyxHQUFHLElBQUksQ0FBQyxHQUFHLENBQUMsQ0FBQztRQUM1QixDQUFDLENBQUMsQ0FBQztRQUNILE9BQU8sTUFBTSxDQUFDO0lBQ2xCLENBQUMsRUFBRSxPQUFPLENBQUMsQ0FBQztBQUNoQixDQUFDO0FBUEQsc0JBT0MiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZnVuY3Rpb24gZmluZChhcnJheTphbnkgLCBwcmVkaWNhdGU6IChpdGVtOiBhbnkpID0+IGJvb2xlYW4pIHtcbiAgICByZXR1cm4gYXJyYXkuZmluZChwcmVkaWNhdGUpO1xufVxuXG5leHBvcnQgZnVuY3Rpb24gZmluZEluZGV4KGFycmF5OiBhbnksIHByZWRpY2F0ZTogKGl0ZW06IGFueSkgPT4gYW55KSB7XG4gICAgcmV0dXJuIGFycmF5LmZpbmRJbmRleChwcmVkaWNhdGUpO1xufVxuXG4vLyBtZXJnZSBhbiBhcnJheSBvZiBvYmplY3RzIGludG8gYSBzaW5nbGUgb2JqZWN0XG5leHBvcnQgZnVuY3Rpb24gbWVyZ2UoYXJyYXk6IGFueVtdLCBvcHRpb25zPzogYW55KSB7XG4gICAgcmV0dXJuIGFycmF5LnJlZHVjZSgocmVzdWx0LCBpdGVtKSA9PiB7XG4gICAgICAgIE9iamVjdC5rZXlzKGl0ZW0pLmZvckVhY2goa2V5ID0+IHtcbiAgICAgICAgICAgIHJlc3VsdFtrZXldID0gaXRlbVtrZXldO1xuICAgICAgICB9KTtcbiAgICAgICAgcmV0dXJuIHJlc3VsdDtcbiAgICB9LCBvcHRpb25zKTtcbn1cbiJdfQ==
