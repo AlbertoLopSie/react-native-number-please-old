@@ -6,7 +6,7 @@
 
 # React Native Number Please 🙏🏽
 
-One Paragraph of project description goes here
+Generate react-native pickers with range numbers. 
 
 ## Example
 
