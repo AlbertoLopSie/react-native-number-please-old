@@ -2,7 +2,7 @@
 
 [![Build](https://circleci.com/gh/thebiltheory/react-native-number-please/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/thebiltheory/react-native-number-please) ![npm](https://img.shields.io/npm/v/react-native-number-please?color=%236820FE) ![npm](https://img.shields.io/npm/dm/react-native-number-please) ![NPM](https://img.shields.io/npm/l/react-native-number-please)
 
-[![Build](https://circleci.com/gh/thebiltheory/react-native-number-please.svg?style=shield)](https://app.circleci.com/pipelines/github/thebiltheory/react-native-number-please) ![MIT License](https://img.shields.io/github/license/thebiltheory/react-native-number-please/LICENSE) 
+[![Build](https://circleci.com/gh/thebiltheory/react-native-number-please.svg?style=shield)](https://app.circleci.com/pipelines/github/thebiltheory/react-native-number-please) ![NPM](https://img.shields.io/npm/l/react-native-number-please)
 
 
 Generate react-native pickers with range numbers.
