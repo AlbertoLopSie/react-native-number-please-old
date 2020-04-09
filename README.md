@@ -4,8 +4,9 @@
 
 [![Build](https://circleci.com/gh/thebiltheory/react-native-number-please.svg?style=shield)](https://app.circleci.com/pipelines/github/thebiltheory/react-native-number-please) ![NPM](https://img.shields.io/npm/l/react-native-number-please)
 
+# React Native Number Please 🙏🏽
 
-Generate react-native pickers with range numbers.
+One Paragraph of project description goes here
 
 ## Example
 
