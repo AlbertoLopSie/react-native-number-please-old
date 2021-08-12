@@ -72,7 +72,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "@react-native-picker/picker": "*"
   },
   "jest": {
     "preset": "react-native",
