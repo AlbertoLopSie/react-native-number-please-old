@@ -1,5 +1,5 @@
 {
-  "name": "react-native-number-please",
+  "name": "digicard-react-native-number-please",
   "version": "0.0.0-development",
   "description": "React Native number picker",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebiltheory/react-native-number-please.git"
+    "url": "https://github.com/digicard/react-native-number-please.git"
   },
   "keywords": [
     "react-native",
@@ -29,9 +29,9 @@
   "author": "Bil Benhamou <bil@thebiltheory.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thebiltheory/react-native-number-please/issues"
+    "url": "https://github.com/digicard/react-native-number-please/issues"
   },
-  "homepage": "https://github.com/thebiltheory/react-native-number-please#readme",
+  "homepage": "https://github.com/digicard/react-native-number-please#readme",
   "peerDependencies": {
     "@react-native-picker/picker": "*",
     "react": "*",
