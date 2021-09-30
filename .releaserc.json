@@ -1,6 +1,5 @@
 {
   "branch": "master",
-  "verifyConditions": "condition-circle",
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
