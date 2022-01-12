@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/digicard/react-native-number-please/compare/v1.1.0...v1.1.1) (2022-01-12)
+
+
+### Bug Fixes
+
+* **pkg:** pkg info updated ([809239e](https://github.com/digicard/react-native-number-please/commit/809239ed9599b35a37b432a75584a5ecf4bc21b6))
+
 # [1.1.0](https://github.com/digicard/react-native-number-please/compare/v1.0.5...v1.1.0) (2021-09-30)
 
 
