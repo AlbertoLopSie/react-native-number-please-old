@@ -29,9 +29,12 @@
   "author": "Bil Benhamou <bil@thebiltheory.com>",
   "license": "MIT",
   "contributors": [
-    {"name": "Alberto Lopez", "email": "alopez@digicard.net"}
+    {
+      "name": "Alberto Lopez",
+      "email": "alopez@digicard.net"
+    }
   ],
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/digicard/react-native-number-please/issues"
   },
   "homepage": "https://github.com/digicard/react-native-number-please#readme",
@@ -69,8 +72,8 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "@react-native-picker/picker": "^1.16.5"
-  },  
+    "@react-native-picker/picker": "^1.16.8"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/",
