@@ -39,7 +39,10 @@
   "repository": "https://github.com/thebiltheory/react-native-number-please",
   "author": "Bil Benhamou <bil@thebiltheory.com> (https://github.com/thebiltheory)",
   "license": "MIT",
-  "bugs": {
+  "contributors": [
+    {"name": "Alberto Lopez", "email": "alopez@digicard.net"}
+  ],
+    "bugs": {
     "url": "https://github.com/digicard/react-native-number-please/issues"
   },
   "homepage": "https://github.com/thebiltheory/react-native-number-please#readme",
