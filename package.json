@@ -39,8 +39,8 @@
   },
   "homepage": "https://github.com/digicard/react-native-number-please#readme",
   "peerDependencies": {
-    "@react-native-community/picker": "*",
-    "@react-native-picker/picker": "*"
+    "@react-native-picker/picker": "*",
+    "react": "*",
     "react-native": "*"
   },
   "devDependencies": {

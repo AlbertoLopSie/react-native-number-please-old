@@ -3,7 +3,7 @@ import { View, StyleSheet } from 'react-native';
 import { find} from './utils/array.utils';
 import { INumberPleaseProps, IValue } from './NumberPlease.interface';
 import range from './utils/range';
-import { Picker } from '@react-native-community/picker';
+import { Picker } from '@react-native-picker/picker';
 
 const PickerFactory: React.FC<any> = React.forwardRef(({
   pickerProps,
