@@ -1,6 +1,6 @@
 {
-  "name": "react-native-number-please",
-  "version": "2.0.0-beta.1",
+  "name": "digicard-react-native-number-please",
+  "version": "1.1.1",
   "description": "React Native number picker",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -40,9 +40,12 @@
   "author": "Bil Benhamou <bil@thebiltheory.com> (https://github.com/thebiltheory)",
   "license": "MIT",
   "contributors": [
-    {"name": "Alberto Lopez", "email": "alopez@digicard.net"}
+    {
+      "name": "Alberto Lopez",
+      "email": "alopez@digicard.net"
+    }
   ],
-    "bugs": {
+  "bugs": {
     "url": "https://github.com/digicard/react-native-number-please/issues"
   },
   "homepage": "https://github.com/thebiltheory/react-native-number-please#readme",
@@ -152,6 +155,11 @@
     ]
   },
   "dependencies": {
-    "@react-native-picker/picker": "^2.2.1"
+    "@react-native-picker/picker": "^1.16.8"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
   }
 }
