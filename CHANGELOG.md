@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/digicard/react-native-number-please/compare/v1.1.2...v1.1.3) (2022-01-12)
+
+
+### Bug Fixes
+
+* **picker:** pkg ref in src fixed ([96ea405](https://github.com/digicard/react-native-number-please/commit/96ea40596424fe2a7777c6010e0d374642fd8883))
+
 ## [1.1.2](https://github.com/digicard/react-native-number-please/compare/v1.1.1...v1.1.2) (2022-01-12)
 
 
