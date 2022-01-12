@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/digicard/react-native-number-please/compare/v1.1.1...v1.1.2) (2022-01-12)
+
+
+### Bug Fixes
+
+* **picker:** changed repo ([e0fdfe6](https://github.com/digicard/react-native-number-please/commit/e0fdfe66d8a8be44bdb150d453e7e4d7fd63ecf9))
+* **ver:** new ver ([bd18ace](https://github.com/digicard/react-native-number-please/commit/bd18aceb2f4fd34295ce9d077560d641496020a2))
+
 ## [1.1.1](https://github.com/digicard/react-native-number-please/compare/v1.1.0...v1.1.1) (2022-01-12)
 
 
